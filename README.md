@@ -71,6 +71,18 @@ The Blog Web App is a full-stack application designed to allow users to create, 
 - Users cannot edit  blog posts created by other users.
 - Error handling for unauthorized access to routes.
 
+
+#### Tailwind CSS
+
+- The application uses Tailwind CSS for styling, providing a responsive and clean user interface.
+
+### Notifications
+
+#### 'react-toastify' Library
+
+- Utilizes the 'react-toastify' library to display notifications for successful actions or error messages, enhancing the user experience.
+
+
 ### Project Structure
 
 The project is structured into backend and frontend folders. The backend has distinct folders for routes, models, middleware, and file handling. The frontend is organized into pages, components, and utility functions.
