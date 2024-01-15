@@ -59,7 +59,7 @@ The Blog Web App is a full-stack application designed to allow users to create, 
 
 #### Blog Management
 
-- Users can create new blog posts, view all blog posts, and edit/delete their own posts.
+- Users can create new blog posts, view all blog posts, and edit their own posts.
 - Separate section for "My Posts" to display posts created by the logged-in user.
 
 #### Logout
@@ -68,7 +68,7 @@ The Blog Web App is a full-stack application designed to allow users to create, 
 
 ### Additional Features
 
-- Users cannot edit or delete blog posts created by other users.
+- Users cannot edit  blog posts created by other users.
 - Error handling for unauthorized access to routes.
 
 ### Project Structure
